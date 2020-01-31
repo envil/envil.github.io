@@ -8,6 +8,8 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+repository: envil/envil.github.io
+
 defaults:
   -
     scope:
